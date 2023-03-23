@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click here](https://github.com/sumanth-chandana/testimonal-grid-section.git)
-- Live Site URL: [click here](https://testimonal-grid-sectionn.netlify.app/)
+- Live Site URL: [click here](https://testimonial-grid-sectionn.netlify.app/)
 
 ## My process
 
