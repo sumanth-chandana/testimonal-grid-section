@@ -31,6 +31,7 @@ body{
     height: 100%;
     font-size: 13px;
     font-family: 'League Spartan', sans-serif;
+    background-color: var(--Light-grayish-blue);
 }
 
 .container{
